@@ -1,4 +1,4 @@
-# Automated Multi-Branch ETL Pipeline (Project 2)
+# Automated Multi-Branch ETL Pipeline
 
 A Python-based ETL pipeline that processes raw daily CSV/Excel reports from independent karaoke branches and loads them into a centralized PostgreSQL database — the same database used by **Project 1's AI Dashboard** for Text-to-SQL queries and Recharts visualizations.
 
